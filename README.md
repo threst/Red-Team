@@ -4,7 +4,11 @@
 
 ## 工具
 
+[shellcode coding](https://github.com/Mr-Un1k0d3r/Shellcoding)
 
+[PowerShell脚本专注于后利用功能](https://github.com/xorrior/RandomPS-Scripts)
+
+[Aggressor scripts](https://github.com/FortyNorthSecurity/AggressorAssessor)
 
 ## 文章
 
