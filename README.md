@@ -2,7 +2,7 @@
 收集各种红队技巧
 
 
-
+* [Windows执行命令与下载文件总结](https://www.cnblogs.com/17bdw/p/8550189.html)
 * [cs脚本编写](#cs%E8%84%9A%E6%9C%AC%E7%BC%96%E5%86%99)
 
 
