@@ -6,8 +6,9 @@
 * [cs脚本编写](#cs%E8%84%9A%E6%9C%AC%E7%BC%96%E5%86%99)
 
 
+# 密码相关
 
-
+[windows Impacket](https://github.com/ropnop/impacket_static_binaries)
 
 
 
