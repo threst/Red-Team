@@ -2,7 +2,7 @@
 收集各种红队技巧
 
 
-[test](# cs脚本编写)
+[test](#cs%E8%84%9A%E6%9C%AC%E7%BC%96%E5%86%99)
 
 
 [2019.6.26](https://github.com/threst/Red-Team/blob/master/2019.6.26)
